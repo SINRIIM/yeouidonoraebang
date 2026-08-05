@@ -1,0 +1,8 @@
+{
+  "name": "여의도노래방 안내",
+  "short_name": "여의도노래방",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071725",
+  "theme_color": "#0d2742"
+}
